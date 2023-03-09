@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chive Tamagoyaki</title>
-    <link>https://www.chive-tamagoyaki.com/</link>
-    <description>Recent content on Chive Tamagoyaki</description>
+    <title>Articles on Chive Tamagoyaki</title>
+    <link>https://www.chive-tamagoyaki.com/articles/</link>
+    <description>Recent content in Articles on Chive Tamagoyaki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://www.chive-tamagoyaki.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Math Braintrainer</title>
-      <link>https://www.chive-tamagoyaki.com/projects/math-brain-trainer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chive-tamagoyaki.com/projects/math-brain-trainer/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-ca</language><atom:link href="https://www.chive-tamagoyaki.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surprise Surprise</title>
       <link>https://www.chive-tamagoyaki.com/articles/article/</link>

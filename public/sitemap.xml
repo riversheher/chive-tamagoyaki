@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.chive-tamagoyaki.com/articles/</loc>
+  </url><url>
     <loc>https://www.chive-tamagoyaki.com/categories/</loc>
   </url><url>
     <loc>https://www.chive-tamagoyaki.com/</loc>
+  </url><url>
+    <loc>https://www.chive-tamagoyaki.com/contact/</loc>
+  </url><url>
+    <loc>https://www.chive-tamagoyaki.com/projects/math-brain-trainer/</loc>
+  </url><url>
+    <loc>https://www.chive-tamagoyaki.com/projects/</loc>
+  </url><url>
+    <loc>https://www.chive-tamagoyaki.com/articles/article/</loc>
   </url><url>
     <loc>https://www.chive-tamagoyaki.com/tags/</loc>
   </url>

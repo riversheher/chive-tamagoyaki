@@ -5,15 +5,21 @@ theme: "charlolamode"
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        - name: Projects
-          url: /projects/
-          weight: 15
+        - name: About
+          url: /about/
+          weight: 5
+        - name: Roleplay
+          url: /rp/
+          weight: 10
+        # - name: Contact
+        #   url: /contact/
+        #   weight: 30
+        # - name: Articles
+        #   url: /articles/
+        #   weight: 20
+        # - name: Projects
+        #   url: /projects/
+        #   weight: 15
 
      # - name: Categories
         #   url: /categories/
@@ -45,9 +51,10 @@ params:
 
           (She/Her)
 
-          Hello, you can call me Chive.  I produce content
-          about roleplaying, anime, and games.  I'm an expert
-          in the isekai genre.
+          Hello, you can call me Chive.  I'm a completely average nerd who enjoys coding, 
+          roleplaying, anime, and games.  I'm an expert in the isekai genre.  You can check
+          out the content I produce, the characters I create, and what my thoughts are about
+          various topics.  
 
         imageUrl: "/images/profile.png"
         imageTitle: my image
@@ -56,6 +63,9 @@ params:
         buttons:
             - name: Free Onlyfans
               url: https://www.youtube.com/watch?v=OyvNMuSEj24
+
+        title2: TEST
+        content2: TEST TEST
     mainSections:
       - articles
 
@@ -70,7 +80,6 @@ params:
       #   url: yoururl
       # - name: facebook
       #   url: yoururl
-
 
     # change favicon in images folder (icon for web tab)
     assets:

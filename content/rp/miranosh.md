@@ -2,8 +2,15 @@
 title: "Miranosh gra-Shar"
 date: 2023-03-09T18:57:51-05:00
 draft: true
+topic: roleplay
+description: A small Orc with a love for cooking and summoning magic. She was cast out by her clan for being too weak, but was taken in and trained by a travelling Breton.  Even though her mentor is no longer with her, she hopes that there may be others just like him for her to meet.
 tags: ['character','eso','female','orc']
+image: "/images/characters/miranosh-headshot.png"
 ---
+
+{{< figure src="/images/characters/miranosh-headshot.png" title="" >}}
+# Profile
+
 ## History
 Miranosh gra-Shar was born into a weak Orsimer clan that had suffered a devastating defeat in battle. After the loss, the clan decided that Miranosh was not worth keeping due to her small and weak stature.  She was cast out into the wilderness and forgotten. Alone and hungry, Miranosh struggled to survive on her own. 
 
@@ -32,3 +39,17 @@ Miranosh gra-Shar is an orc of smaller stature, standing at around 5'10" and pos
 Despite her unassuming appearance, there are still clear signs that she is an orc. Her underbite and tusks are prominently displayed, and her skin has a slightly greenish hue. However, there is a certain softness to her features that belies her race. Her large, expressive eyes are a green hue and her nose is small and pert. Her hair is a rich black color and is often worn in a high ponytail, presumably to keep it out of her way while she cooks.
 
 Even though light or medium armours would be much more practical for hunting or her daily activities, Miranosh has a certain affinity for heavy armour like most orcs. She wears a suit of intricately crafted plate armor that is adorned with intricate carvings, making her look the part of a small fierce warrior.  While her choice of heavy armor may seem impractical, it also adds a certain intimidating quality to her already prominent orcish features. Her tusks and underbite are even more noticeable as they jut out from beneath her helmet.
+
+# Roleplay Preferences
+- Comedy
+- Slice of Life
+- Adventure
+- Student/Teacher
+- Romance
+
+## Prompts
+>**Monster girl saved by anime main character** <br>
+>
+> Oh no! I'm hurt and helpless in the middle of the forest.  All I wanted to do was to collect some herbs, but before I knew it the wolves descended upon me.  With my last breath I call out for help, hoping for a saviour.
+## ERP
+I'm open to it! [Click here to learn more](https://www.youtube.com/watch?v=pjKQjO1YEK0)

@@ -1,7 +1,7 @@
 ---
 title: "Miranosh gra-Shar"
 date: 2023-03-09T18:57:51-05:00
-draft: true
+draft: false
 topic: roleplay
 description: A small Orc with a love for cooking and summoning magic. She was cast out by her clan for being too weak, but was taken in and trained by a travelling Breton.  Even though her mentor is no longer with her, she hopes that there may be others just like him for her to meet.
 tags: ['character','eso','female','orc']

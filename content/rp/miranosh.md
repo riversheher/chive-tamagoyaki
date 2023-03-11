@@ -40,6 +40,9 @@ Despite her unassuming appearance, there are still clear signs that she is an or
 
 Even though light or medium armours would be much more practical for hunting or her daily activities, Miranosh has a certain affinity for heavy armour like most orcs. She wears a suit of intricately crafted plate armor that is adorned with intricate carvings, making her look the part of a small fierce warrior.  While her choice of heavy armor may seem impractical, it also adds a certain intimidating quality to her already prominent orcish features. Her tusks and underbite are even more noticeable as they jut out from beneath her helmet.
 
+## Motivations
+The loss of Rodyn is still the main thing on Miranosh's mind.  The void in her heart feels so vast and overwhelming.  Whatever she does she can't seem to fill that void.  She feels lost and confused, all she knows is the truth of her mentor's teachings.  Those words are what keeps her going.  Will she find a way out of this rut and find her own meaning in life?
+
 # Roleplay Preferences
 - Comedy
 - Slice of Life
@@ -51,5 +54,28 @@ Even though light or medium armours would be much more practical for hunting or 
 >**Monster girl saved by anime main character** <br>
 >
 > Oh no! I'm hurt and helpless in the middle of the forest.  All I wanted to do was to collect some herbs, but before I knew it the wolves descended upon me.  With my last breath I call out for help, hoping for a saviour.
+
+>**Day at the beach**
+> 
+> Ah! Finally, I have a day to relax.  I can't wait to head to the beach/lake/waterfall for some scantily clad play time! 
+
+> **Helpless monster girl goes job seeking**
+>
+> Gosh, I hope the next innkeeper I speak with is willing to take me on as an apprentice.  All the other innkeepers wont even give me a chance to prove my worth!  I need this job, not just for my own training, but also because I desperately need money.  You can do this Miranosh.
+
+> **Monster girl studies with anime protagonist**
+> 
+> Wow I'm amazed at how smart _ is.  I'm so grateful that I have to opportunity to study with them.  I will make the most of this time and learn as much as I can.  Besides, they are really cute too... \*-\*
+
+> **Girl becomes infatuated with isekai main character due to their power**
+>
+> Oh my gosh. That display of power, its unreal! I've been lost for so long, but now I know what I must do.  I must devote my life to servering the weilder of this power.  Such power must rival a god!
+
+> **Unexpected romantic tension with rival**
+>
+> Ugh, I can't believe I'm being forced to work with the girl I hate most. She doesn't understand me.  All she does is put me down and bully me.  But I can't lie, she is so much more talented in all the ways that matter, it's easy to see why she always seems to be the center of attention.  
+
+
+
 ## ERP
-I'm open to it! [Click here to learn more](https://www.youtube.com/watch?v=pjKQjO1YEK0)
+[Adults Only!](https://www.youtube.com/watch?v=XQF-dpZiWLA)

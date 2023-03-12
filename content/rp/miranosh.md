@@ -8,8 +8,8 @@ tags: ['character','eso','female','orc']
 image: "/images/characters/miranosh-headshot.png"
 ---
 
-{{< figure src="/images/characters/miranosh-headshot.png" title="" >}}
 # Profile
+{{< figure src="/images/characters/miranosh-headshot.png" title="" >}}
 
 ## History
 Miranosh gra-Shar was born into a weak Orsimer clan that had suffered a devastating defeat in battle. After the loss, the clan decided that Miranosh was not worth keeping due to her small and weak stature.  She was cast out into the wilderness and forgotten. Alone and hungry, Miranosh struggled to survive on her own. 

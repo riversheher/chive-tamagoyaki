@@ -5,7 +5,6 @@ draft: false
 topic: roleplay
 description: Miraselene is a tall young human born into poverty who was sold into slavery to impoverished nobles. She endured years of cruelty from her masters until their ship crashed in Albion. Miraselene survived by hunting in the woods and turned to curse magic for revenge against her former masters. She soon realized the magic was consuming her and turned to healing magic for redemption. Miraselene is torn between her desire for revenge and her need for redemption, but remains a skilled archer and dangerous opponent.
 tags: ['character','albion online','female','human']
-image: "/images/characters/miraselene.png"
 ---
 
 
